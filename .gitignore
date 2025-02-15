@@ -6,4 +6,4 @@ pyenv.cfg
 .vercel
 test_batch_api.py
 test*
-__pycache__
+**/__pycache__/
